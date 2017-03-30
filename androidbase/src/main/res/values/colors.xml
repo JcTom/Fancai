@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F85408</color>
+    <color name="colorPrimaryDark">#F85408</color>
+    <color name="colorAccent">#F85408</color>
+    <color name="background_tab_pressed">#F85408</color>
+    <color name="colorBackgroud">#F85408</color>
+    <color name="itembg">#F85408</color>
+</resources>
